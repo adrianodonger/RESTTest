@@ -17,7 +17,7 @@ public class PostgresConnection {
 	//to store the passwords.
 	private static String Url = "jdbc:postgresql://localhost/postgres";
 	private static String username = "postgres";
-	private static String password = "Welcome1";
+	private static String password = "Testme";
 	
 	private static Connection conn = null;
 	
